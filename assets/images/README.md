@@ -1,25 +1,20 @@
 # Image assets
 
-Drop real photos in here using these exact filenames, then swap the matching
-`<div class="placeholder">...</div>` block in the HTML for an `<img>` tag
-pointing at the file (each placeholder has an HTML comment noting its path).
-
 ```
 assets/images/
-  logo.png              ✅ done — used on the Home hero
-  founder.jpg             Rachelle Pilares-Buenaventura / product photo (About + Home)
-  flavors/
-    ube.jpg
-    cheese.jpg
-    cookies-cream.jpg
-    chocolate.jpg
-    choc-jackfruit.jpg
-    corn-cheese.jpg
-    avocado.jpg
-    mango.jpg
-    melon.jpg
-    buko-lychee.jpg
-    buko-milk-cheese.jpg
-  gallery/
-    gallery-1.jpg ... gallery-8.jpg
+  logo.png          ✅ done — Home hero
+  founder.jpg        still needed — About + Home founder photo
+  ube.jpg           ✅ done — Menu, Home, Gallery
+  cheese.jpg        ✅ done — Menu, Home, Gallery
+  cookiecream.jpg   ✅ done — Menu, Home, Gallery
+  chocolate.jpg     ✅ done — Menu, Home, Gallery
+  jackfruit.jpg     ✅ done — Menu, Home, Gallery
+  corncheese.jpg    ✅ done — Menu, Gallery
+  Avacado.jpg       ✅ done — Menu, Home, Gallery
+  mango.jpg         ✅ done — Menu, Home, Gallery
+  melon.jpg         ✅ done — Menu, Gallery
+  leche.jpg         ✅ done — Menu, Home, Gallery (Buko Lychee)
+  bukocheese.jpg    ✅ done — Menu, Gallery (Buko w/ Milk & Cheese)
 ```
+
+`founder.jpg` is the only photo still on a styled placeholder (About page + Home "Our Story" section).
